@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "description": "A descrição do aplicativo, exibida na loja web.",
+      "message": "Aplicação Chrome do Papaly que contribui com a organização Bookmark em todas as plataformas"
+   },
+   "appDetail": {
+      "description": "Descrição para ser usado em webstore",
+      "message": "Papaly.com é uma página inicial personalizada baseada em nuvem que é um gerenciador de favoritos para os usuários. Você é capaz de sincronizar com vários computadores e plataformas. maneira mais fácil de marcador junto com compartilhar e descobrir conteúdo! Obter uma das melhores aplicações de serviços públicos de produtividade no Chrome! Com Papaly, você pode usar recursos, incluindo: ★ Share &amp; Publicar Publicar a placa que você deseja compartilhar, por um link encurtado. Até mesmo compartilhar sua placa através de perfis de mídia social e outros canais. ★ Co-propriedade e privada Boards Compartilhar e convidar outras pessoas para a sua placa que pode ser pública ou privada. ★ Social Bookmarks ser capaz de sincronizar as suas contas de mídia social para obter tudo em um acesso a them.google.com/webstore/detail/bookmark-sync-speed-dial/pdcohkhhjbifkmpakaiopnllnddofbbn~~V ============ ==================..Algumas outras características: ✔ Preencher Boards de Pesquisas Bookmark ✔ Sincronização do navegador e Marcadores Cruz Browsers ✔ Explore conteúdo ✔ Drag and Drop Pesquisas com marcadores ✔ temas customizados ✔ gerenciador de marcadores Edit Mode ✔ Renomear Categorias e links ✔ Bookmarking Made Easy ✔ Display Name Personalização == ============================ gerenciador de marcadores New Tab Extensão: https: // chrome."
+   },
+   "appName": {
+      "description": "O título do aplicativo, exibida na loja web.",
+      "message": "Papaly gerenciador de marcadores"
+   }
+}

@@ -95,7 +95,7 @@ bindsym $mod+a focus parent
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1: Chrome "
-set $ws2 "2"
+set $ws2 "2: term "
 set $ws3 "3"
 set $ws4 "4"
 set $ws5 "5"
@@ -165,6 +165,28 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-        status_command i3status
-}
+#bar {
+#        status_command i3status
+#}
+
+# #---Function Buttons---# #
+bindsym $mod+F1         exec --no-startup-id groff -mom ~/.local/share/larbs/readme.mom -Tpdf | zathura -
+#bindsym $mod+F2         restart
+#bindsym $mod+F3         exec --no-startup-id displayselect
+#bindsym $mod+F4         exec --no-startup-id prompt "Hibernate computer?" "$hibernate"
+#bindsym $mod+F5         exec --no-startup-id $netrefresh
+#bindsym $mod+F6         exec --no-startup-id torwrap
+#bindsym $mod+F7         exec --no-startup-id td-toggle
+#bindsym $mod+F8         exec --no-startup-id ~/.config/mutt/etc/mailsync.sh
+#bindsym $mod+F9         exec --no-startup-id dmenumount
+#bindsym $mod+F10        exec --no-startup-id dmenuumount
+#bindsym $mod+F11        exec --no-startup-id ducksearch
+#bindsym $mod+F12        exec $term -e nmtui
+
+
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+
+
+
+
+

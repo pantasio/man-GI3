@@ -1,0 +1,68 @@
+2019/04/15-14:31:03.518 68d Reusing MANIFEST /home/pantasio/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/04/15-14:31:03.518 68d Recovering log #388
+2019/04/15-14:31:03.599 68d Level-0 table #391: started
+2019/04/15-14:31:03.669 68d Level-0 table #391: 3985099 bytes OK
+2019/04/15-14:31:03.673 68d Delete type=0 #388
+2019/04/15-14:32:04.401 9f4 Level-0 table #394: started
+2019/04/15-14:32:04.471 9f4 Level-0 table #394: 3985267 bytes OK
+2019/04/15-14:32:04.474 9f4 Delete type=0 #392
+2019/04/15-14:32:04.475 9f4 Compacting 4@0 + 2@1 files
+2019/04/15-14:32:04.553 9f4 Generated table #395@0: 1 keys, 3985110 bytes
+2019/04/15-14:32:04.556 9f4 Generated table #396@0: 2 keys, 338 bytes
+2019/04/15-14:32:04.556 9f4 Compacted 4@0 + 2@1 files => 3985448 bytes
+2019/04/15-14:32:04.558 9f4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/04/15-14:32:04.558 9f4 Delete type=2 #389
+2019/04/15-14:32:04.558 9f4 Delete type=2 #391
+2019/04/15-14:32:04.558 9f4 Delete type=2 #394
+2019/04/15-14:32:04.559 9f4 Delete type=2 #387
+2019/04/15-14:32:04.559 9f4 Delete type=2 #385
+2019/04/15-14:32:04.559 9f4 Delete type=2 #384
+2019/04/15-14:32:06.724 9f4 Level-0 table #398: started
+2019/04/15-14:32:06.770 9f4 Level-0 table #398: 3985350 bytes OK
+2019/04/15-14:32:06.772 9f4 Delete type=0 #393
+2019/04/15-14:33:06.828 9f4 Level-0 table #400: started
+2019/04/15-14:33:06.890 9f4 Level-0 table #400: 3983936 bytes OK
+2019/04/15-14:33:06.892 9f4 Delete type=0 #397
+2019/04/15-15:32:04.489 9f4 Level-0 table #402: started
+2019/04/15-15:32:04.558 9f4 Level-0 table #402: 3984128 bytes OK
+2019/04/15-15:32:04.560 9f4 Delete type=0 #399
+2019/04/15-15:38:31.236 9f4 Level-0 table #404: started
+2019/04/15-15:38:31.303 9f4 Level-0 table #404: 3984256 bytes OK
+2019/04/15-15:38:31.306 9f4 Delete type=0 #401
+2019/04/15-15:38:31.307 9f4 Compacting 4@0 + 2@1 files
+2019/04/15-15:38:31.417 9f4 Generated table #405@0: 1 keys, 3984016 bytes
+2019/04/15-15:38:31.420 9f4 Generated table #406@0: 2 keys, 338 bytes
+2019/04/15-15:38:31.420 9f4 Compacted 4@0 + 2@1 files => 3984354 bytes
+2019/04/15-15:38:31.422 9f4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/04/15-15:38:31.422 9f4 Delete type=2 #398
+2019/04/15-15:38:31.422 9f4 Delete type=2 #396
+2019/04/15-15:38:31.423 9f4 Delete type=2 #395
+2019/04/15-15:38:31.423 9f4 Delete type=2 #404
+2019/04/15-15:38:31.423 9f4 Delete type=2 #402
+2019/04/15-15:38:31.424 9f4 Delete type=2 #400
+2019/04/15-16:32:04.327 9f4 Level-0 table #408: started
+2019/04/15-16:32:04.412 9f4 Level-0 table #408: 3984428 bytes OK
+2019/04/15-16:32:04.415 9f4 Delete type=0 #403
+2019/04/15-16:32:06.643 9f4 Level-0 table #410: started
+2019/04/15-16:32:06.709 9f4 Level-0 table #410: 3984256 bytes OK
+2019/04/15-16:32:06.712 9f4 Delete type=0 #407
+2019/04/15-16:46:06.637 9f4 Level-0 table #412: started
+2019/04/15-16:46:06.703 9f4 Level-0 table #412: 3984013 bytes OK
+2019/04/15-16:46:06.705 9f4 Delete type=0 #409
+2019/04/15-17:32:04.346 9f4 Level-0 table #414: started
+2019/04/15-17:32:04.403 9f4 Level-0 table #414: 3984385 bytes OK
+2019/04/15-17:32:04.406 9f4 Delete type=0 #411
+2019/04/15-17:32:04.408 9f4 Compacting 4@0 + 2@1 files
+2019/04/15-17:32:04.504 9f4 Generated table #415@0: 1 keys, 3984009 bytes
+2019/04/15-17:32:04.507 9f4 Generated table #416@0: 2 keys, 338 bytes
+2019/04/15-17:32:04.507 9f4 Compacted 4@0 + 2@1 files => 3984347 bytes
+2019/04/15-17:32:04.509 9f4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/04/15-17:32:04.509 9f4 Delete type=2 #406
+2019/04/15-17:32:04.509 9f4 Delete type=2 #408
+2019/04/15-17:32:04.510 9f4 Delete type=2 #412
+2019/04/15-17:32:04.510 9f4 Delete type=2 #414
+2019/04/15-17:32:04.511 9f4 Delete type=2 #410
+2019/04/15-17:32:04.512 9f4 Delete type=2 #405
+2019/04/15-17:32:06.558 9f4 Level-0 table #418: started
+2019/04/15-17:32:06.651 9f4 Level-0 table #418: 3984249 bytes OK
+2019/04/15-17:32:06.653 9f4 Delete type=0 #413

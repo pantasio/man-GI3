@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Papaly's Chrome Application that helps with Bookmark Organization across all platforms"
+   },
+   "appDetail": {
+      "description": "Description to be used on webstore",
+      "message": "Papaly.com is a cloud based personalized start page that is a bookmark manager for users. You’re able to sync with multiple computers and platforms. Easiest way to bookmark along with share and discover content! Get one of the best productivity utilities applications on Chrome! With Papaly, you can use features including:\n\n★ Share & Publish\nPublish the board you want to share, by a shortened link. Even share your board through Social Media Profiles and other channels.\n\n★ Co-ownership and Private Boards\nShare and invite others to your board that is either public or private.\n\n★ Social Bookmarks\nBe able to sync up your Social Media accounts to get all in one access to them.\n\nSome other features:\n\n✔ Populate Boards from Browser's Bookmark\n✔ Sync Searches and Bookmarks Cross Browsers\n✔ Explore Content\n✔ Drag and Drop Searches with Bookmarks\n✔ Customizable Themes\n✔ Bookmark Manager Edit Mode\n✔ Rename Categories and Links\n✔ Bookmarking Made Easy\n✔ Display Name Customization\n\n==============================\nBookmark Manager New Tab Extension:\nhttps://chrome.google.com/webstore/detail/bookmark-sync-speed-dial/pdcohkhhjbifkmpakaiopnllnddofbbn\n=============================="
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Papaly Bookmark Manager"
+   }
+}

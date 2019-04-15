@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "description": "La descripción de la aplicación, que aparece en la tienda web.",
+      "message": "Aplicación Chrome de Papaly que ayuda con la organización de enlaces en todas las plataformas"
+   },
+   "appDetail": {
+      "description": "Descripción para ser utilizado en tienda web",
+      "message": "Papaly.com es una página de inicio personalizada basada en la nube y es un administrador de enlaces. Puedes sincronizar con varios computadoras y plataformas. Es la manera más fácil de guardar enlaces, compartir y descubrir contenido! Obten una de las mejores aplicaciones de productividad en Chrome! Con Papaly, puede utilizar características que incluyen:\n\n★ Compartir y publicar\nPublica la tarjeta que deseas compartir con un enlace corto. Tambien puedes compartir tu tablero a través de los perfiles de medios sociales y otros canales.\n\n★ Copropiedad y tableros privadas\nComparte e invita a otros a tu tablero que es ya sea pública o privada.\n\n★ Marcadores sociales\nSincroniza tus cuentas de redes sociales para conseguir todo los enlaces en un solo acceso a ellos.\n\nOtras características:\n✔ Añadir tableros de Favoritos del navegador\n✔ Sincroniza enlaces con varios navegadores de web\n✔ Explora contenido\n✔ Arrastrar y soltar enlaces\n✔ Temas personalizables\n✔ Modo de edición\n✔ Cambiar el nombre de las categorías y enlaces\n✔ Guardando enlaces hecho fácil\n✔ Nombre de usuario personalizada\n\n==============================\nAdministrador de marcadores nueva pestaña extensión:\nhttps://chrome.google.com/webstore/detail/bookmark-sync-speed-dial/pdcohkhhjbifkmpakaiopnllnddofbbn\n=============================="
+   },
+   "appName": {
+      "description": "El título de la aplicación, que aparece en la tienda web.",
+      "message": "Papaly gestor de enlaces"
+   }
+}

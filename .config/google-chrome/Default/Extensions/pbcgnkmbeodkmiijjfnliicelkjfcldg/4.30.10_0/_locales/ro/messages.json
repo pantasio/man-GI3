@@ -1,0 +1,1230 @@
+{
+   "description": {
+      "message": "WiseStamp - Email Signatures for Gmail"
+   },
+   "editor_accept_policy": {
+      "description": "Put %20 between words that go together.",
+      "message": "$DIVSTART$By signing up you accept our $ASTART$terms of use$AEND$ and $A2START$privacy policy$AEND$.$DIVEND$",
+      "placeholders": {
+         "a2start": {
+            "content": "\u003Ca id='privacy'>"
+         },
+         "aend": {
+            "content": "\u003C/a>"
+         },
+         "astart": {
+            "content": "\u003Ca id='terms'>"
+         },
+         "divend": {
+            "content": "\u003C/div>"
+         },
+         "divstart": {
+            "content": "\u003Cbr/>\u003Cdiv class='terms'>"
+         }
+      }
+   },
+   "editor_account_sign_in": {
+      "description": "Put %20 between words that go together.",
+      "message": "$DIVSTART$Already have an account? $ASTART$Sign in$AEND$ now.$DIVEND$",
+      "placeholders": {
+         "aend": {
+            "content": "\u003C/a>"
+         },
+         "astart": {
+            "content": "\u003Ca id='registerLogin' class='underlined'>"
+         },
+         "divend": {
+            "content": "\u003C/div>"
+         },
+         "divstart": {
+            "content": "\u003Cdiv id='existingUser'>"
+         }
+      }
+   },
+   "editor_cancel": {
+      "description": "Put %20 between words that go together.",
+      "message": "Cancel"
+   },
+   "editor_changes_not_saved": {
+      "description": "Put %20 between words that go together.",
+      "message": "Some of your changes were not saved yet."
+   },
+   "editor_changes_not_saved_question": {
+      "description": "Put %20 between words that go together.",
+      "message": "Some of your changes were not saved yet. What would you like to do?$BR$",
+      "placeholders": {
+         "br": {
+            "content": "\u003Cbr/>\u003Cbr/>"
+         }
+      }
+   },
+   "editor_create_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Create WiseStamp Account"
+   },
+   "editor_create_account_facebook": {
+      "description": "Put %20 between words that go together.",
+      "message": "Sign in with your Facebook account"
+   },
+   "editor_create_account_message": {
+      "description": "Put %20 between words that go together.",
+      "message": "$DIVSTART$Don't have an account?$ASTART$Create your free account$AEND$ now.$DIVEND$",
+      "placeholders": {
+         "aend": {
+            "content": "\u003C/a>"
+         },
+         "astart": {
+            "content": "\u003Cbr/>\u003Ca id='loginRegister' class='underlined'>"
+         },
+         "divend": {
+            "content": "\u003C/div>"
+         },
+         "divstart": {
+            "content": "\u003Cdiv id='createAccount'>"
+         }
+      }
+   },
+   "editor_custom_icons": {
+      "description": "Put %20 between words that go together.",
+      "message": "Custom Icons"
+   },
+   "editor_discard": {
+      "description": "Put %20 between words that go together.",
+      "message": "Discard"
+   },
+   "editor_email": {
+      "description": "Put %20 between words that go together.",
+      "message": "Email:"
+   },
+   "editor_enter_valid_email": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please enter a valid email address."
+   },
+   "editor_facebook_allow_message": {
+      "description": "Put %20 between words that go together.",
+      "message": "Could not sign in. Please make sure you click 'Allow' in Facebook Login page."
+   },
+   "editor_help": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp Help"
+   },
+   "editor_hiding": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp editor is already open! It was just hiding..."
+   },
+   "editor_html_30_days": {
+      "description": "Put %20 between words that go together.",
+      "message": "30 days money back guaranteed"
+   },
+   "editor_html_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Account"
+   },
+   "editor_html_account_created": {
+      "description": "Put %20 between words that go together.",
+      "message": "Congratulations! Your account was created!"
+   },
+   "editor_html_account_details": {
+      "description": "Put %20 between words that go together.",
+      "message": "Account Details"
+   },
+   "editor_html_add": {
+      "description": "Put %20 between words that go together.",
+      "message": "Add"
+   },
+   "editor_html_add_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Add Email Account"
+   },
+   "editor_html_add_sig": {
+      "description": "Put %20 between words that go together.",
+      "message": "Add Signature"
+   },
+   "editor_html_advanced": {
+      "description": "Put %20 between words that go together.",
+      "message": "Advanced"
+   },
+   "editor_html_apply": {
+      "description": "Put %20 between words that go together.",
+      "message": "Save"
+   },
+   "editor_html_assigning_sigs": {
+      "description": "Put %20 between words that go together.",
+      "message": "Assigning signatures to accounts"
+   },
+   "editor_html_background_color": {
+      "description": "Put %20 between words that go together.",
+      "message": "Background color:"
+   },
+   "editor_html_border_type": {
+      "description": "Put %20 between words that go together.",
+      "message": "Border type:"
+   },
+   "editor_html_box": {
+      "description": "Put %20 between words that go together.",
+      "message": "Box"
+   },
+   "editor_html_cancel": {
+      "description": "Put %20 between words that go together.",
+      "message": "Cancel"
+   },
+   "editor_html_change": {
+      "description": "Put %20 between words that go together.",
+      "message": "change"
+   },
+   "editor_html_change_promo": {
+      "description": "Put %20 between words that go together.",
+      "message": "Change promotion"
+   },
+   "editor_html_choose_sig": {
+      "description": "Put %20 between words that go together.",
+      "message": "Choose which signature to use when composing or replying to emails"
+   },
+   "editor_html_click_template": {
+      "description": "Put %20 between words that go together.",
+      "message": "Click on the template you like and it will be added to the editor."
+   },
+   "editor_html_copyright": {
+      "description": "Put %20 between words that go together.",
+      "message": "&#x00A9; 2013 "
+   },
+   "editor_html_create_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Create Account"
+   },
+   "editor_html_create_an_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "create an account"
+   },
+   "editor_html_current_promo": {
+      "description": "Put %20 between words that go together.",
+      "message": "Current promotion id - "
+   },
+   "editor_html_custom_icons": {
+      "description": "Put %20 between words that go together.",
+      "message": "Custom social and IM icons"
+   },
+   "editor_html_custom_icons_added": {
+      "description": "Put %20 between words that go together.",
+      "message": "Custom icons added here will be available in the social icons list."
+   },
+   "editor_html_default_sig": {
+      "description": "Put %20 between words that go together.",
+      "message": "Default signatures"
+   },
+   "editor_html_delete": {
+      "description": "Put %20 between words that go together.",
+      "message": "Delete"
+   },
+   "editor_html_design": {
+      "description": "Put %20 between words that go together.",
+      "message": "Design"
+   },
+   "editor_html_email_apps": {
+      "description": "Put %20 between words that go together.",
+      "message": "Email Apps"
+   },
+   "editor_html_expired": {
+      "description": "Put %20 between words that go together.",
+      "message": "(expired)"
+   },
+   "editor_html_find_update": {
+      "description": "Put %20 between words that go together.",
+      "message": "Find_update"
+   },
+   "editor_html_format": {
+      "description": "Put %20 between words that go together.",
+      "message": "Format"
+   },
+   "editor_html_free": {
+      "description": "Put %20 between words that go together.",
+      "message": "Free"
+   },
+   "editor_html_get_more": {
+      "description": "Put %20 between words that go together.",
+      "message": "Get more with WiseStamp premium"
+   },
+   "editor_html_go_pro": {
+      "description": "Put %20 between words that go together.",
+      "message": "Go Pro"
+   },
+   "editor_html_go_to": {
+      "description": "Put %20 between words that go together.",
+      "message": "Go to our"
+   },
+   "editor_html_help": {
+      "description": "Put %20 between words that go together.",
+      "message": "Help"
+   },
+   "editor_html_help_center": {
+      "description": "Put %20 between words that go together.",
+      "message": "Help Center"
+   },
+   "editor_html_how_sig_appears": {
+      "description": "Put %20 between words that go together.",
+      "message": "This is how your signature will appear in your emails"
+   },
+   "editor_html_icon": {
+      "description": "Put %20 between words that go together.",
+      "message": "Icon"
+   },
+   "editor_html_im_icons": {
+      "description": "Put %20 between words that go together.",
+      "message": "IM Icons"
+   },
+   "editor_html_its_free": {
+      "description": "Put %20 between words that go together.",
+      "message": " - it's free!"
+   },
+   "editor_html_keep_credit": {
+      "description": "Put %20 between words that go together.",
+      "message": " Keep WiseStamp credit in the signatures"
+   },
+   "editor_html_keep_tag": {
+      "description": "Put %20 between words that go together.",
+      "message": " Keep WiseStamp tag on the bottom of the email apps"
+   },
+   "editor_html_light_gray": {
+      "description": "Put %20 between words that go together.",
+      "message": "Light gray"
+   },
+   "editor_html_load_from_server": {
+      "description": "Put %20 between words that go together.",
+      "message": "Load your stored signatures and settings from the WiseStamp server."
+   },
+   "editor_html_load_settings": {
+      "description": "Put %20 between words that go together.",
+      "message": "Load Settings"
+   },
+   "editor_html_loading": {
+      "description": "Put %20 between words that go together.",
+      "message": "Loading..."
+   },
+   "editor_html_location": {
+      "description": "Put %20 between words that go together.",
+      "message": "Location"
+   },
+   "editor_html_manage_subscription": {
+      "description": "Put %20 between words that go together.",
+      "message": "manage subscription"
+   },
+   "editor_html_manually_change": {
+      "description": "Put %20 between words that go together.",
+      "message": "To use this feature you will need to manually change the signature for an email account in the compose window. Then the account will appear here for more configuration."
+   },
+   "editor_html_more": {
+      "description": "Put %20 between words that go together.",
+      "message": "And more!"
+   },
+   "editor_html_more_help": {
+      "description": "Put %20 between words that go together.",
+      "message": "More help?"
+   },
+   "editor_html_multiple_sigs": {
+      "description": "Put %20 between words that go together.",
+      "message": "Multiple signatures"
+   },
+   "editor_html_my_icons": {
+      "description": "Put %20 between words that go together.",
+      "message": "My Icons"
+   },
+   "editor_html_name": {
+      "description": "Put %20 between words that go together.",
+      "message": "Name"
+   },
+   "editor_html_none": {
+      "description": "Put %20 between words that go together.",
+      "message": "None"
+   },
+   "editor_html_ok": {
+      "description": "Put %20 between words that go together.",
+      "message": "Save & Exit"
+   },
+   "editor_html_or": {
+      "description": "Put %20 between words that go together.",
+      "message": " or "
+   },
+   "editor_html_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Password:"
+   },
+   "editor_html_paste_link": {
+      "description": "Put %20 between words that go together.",
+      "message": "* You can use Ctrl-V to paste the link"
+   },
+   "editor_html_plan": {
+      "description": "Put %20 between words that go together.",
+      "message": "Plan:"
+   },
+   "editor_html_position_sig_above": {
+      "description": "Put %20 between words that go together.",
+      "message": " Position signature above quoted text when replying or forwarding"
+   },
+   "editor_html_position_sig_thunderbird_end": {
+      "description": "Put %20 between words that go together.",
+      "message": "in Account Settings"
+   },
+   "editor_html_position_sig_thunderbird_link": {
+      "description": "Put %20 between words that go together.",
+      "message": "Composition & Addressing"
+   },
+   "editor_html_position_sig_thunderbird_start": {
+      "description": "Put %20 between words that go together.",
+      "message": "In Thunderbird signature position should be changed using "
+   },
+   "editor_html_premium_templates": {
+      "description": "Put %20 between words that go together.",
+      "message": "Premium Templates"
+   },
+   "editor_html_preview": {
+      "description": "Put %20 between words that go together.",
+      "message": "Preview Signature"
+   },
+   "editor_html_promote": {
+      "description": "Put %20 between words that go together.",
+      "message": "Support and promote"
+   },
+   "editor_html_rename": {
+      "description": "Put %20 between words that go together.",
+      "message": "Rename"
+   },
+   "editor_html_repair": {
+      "description": "Put %20 between words that go together.",
+      "message": "Repair"
+   },
+   "editor_html_repair_install": {
+      "description": "Put %20 between words that go together.",
+      "message": "Repair WiseStamp installation"
+   },
+   "editor_html_reset": {
+      "description": "Put %20 between words that go together.",
+      "message": "Reset settings"
+   },
+   "editor_html_reset_all": {
+      "description": "Put %20 between words that go together.",
+      "message": "Reset all WiseStamp settings to default and start over."
+   },
+   "editor_html_reset_button": {
+      "description": "Put %20 between words that go together.",
+      "message": "Reset"
+   },
+   "editor_html_rss": {
+      "description": "Put %20 between words that go together.",
+      "message": "RSS"
+   },
+   "editor_html_save_and_backup": {
+      "description": "Put %20 between words that go together.",
+      "message": "Save and Backup"
+   },
+   "editor_html_save_to_server": {
+      "description": "Put %20 between words that go together.",
+      "message": "Save your signatures and settings to the WiseStamp server."
+   },
+   "editor_html_select_promo": {
+      "description": "Put %20 between words that go together.",
+      "message": "Select promotion"
+   },
+   "editor_html_set_defaults": {
+      "description": "Put %20 between words that go together.",
+      "message": "Set defaults..."
+   },
+   "editor_html_settings": {
+      "description": "Put %20 between words that go together.",
+      "message": "Settings"
+   },
+   "editor_html_share": {
+      "description": "Put %20 between words that go together.",
+      "message": "Share WiseStamp with friends!"
+   },
+   "editor_html_sig_examples": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature Examples"
+   },
+   "editor_html_sig_insertions": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature Insertion"
+   },
+   "editor_html_sig_position": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature position"
+   },
+   "editor_html_sig_templates": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signatures templates"
+   },
+   "editor_html_sign_in": {
+      "description": "Put %20 between words that go together.",
+      "message": "Sign in"
+   },
+   "editor_html_sign_out": {
+      "description": "Put %20 between words that go together.",
+      "message": "Sign out"
+   },
+   "editor_html_social_icons": {
+      "description": "Put %20 between words that go together.",
+      "message": "Social Icons"
+   },
+   "editor_html_social_profiles": {
+      "description": "Put %20 between words that go together.",
+      "message": "Add links to your social services profiles."
+   },
+   "editor_html_start_wizard": {
+      "description": "Put %20 between words that go together.",
+      "message": "Start Wizard"
+   },
+   "editor_html_submit_bug": {
+      "description": "Put %20 between words that go together.",
+      "message": "Submit a bug"
+   },
+   "editor_html_sync": {
+      "description": "Put %20 between words that go together.",
+      "message": "Sync"
+   },
+   "editor_html_sync_and_backup": {
+      "description": "Put %20 between words that go together.",
+      "message": "Sync and Backup"
+   },
+   "editor_html_templates": {
+      "description": "Put %20 between words that go together.",
+      "message": "Templates"
+   },
+   "editor_html_testers": {
+      "description": "Put %20 between words that go together.",
+      "message": "Testers options"
+   },
+   "editor_html_title": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp"
+   },
+   "editor_html_top_line": {
+      "description": "Put %20 between words that go together.",
+      "message": "Top line"
+   },
+   "editor_html_update": {
+      "description": "Put %20 between words that go together.",
+      "message": "Update"
+   },
+   "editor_html_upgrade": {
+      "description": "Put %20 between words that go together.",
+      "message": "Upgrade now"
+   },
+   "editor_html_upgrade_benefits": {
+      "description": "Put %20 between words that go together.",
+      "message": "Upgrade now to enjoy more templates and more features! Find the best plan for you and enjoy the benefits."
+   },
+   "editor_html_upgrade_now": {
+      "description": "Put %20 between words that go together.",
+      "message": "Upgrade Now!"
+   },
+   "editor_html_username_in_im_services": {
+      "description": "Put %20 between words that go together.",
+      "message": "Add your username in the Instant Messaging services you use."
+   },
+   "editor_html_version": {
+      "description": "Put %20 between words that go together.",
+      "message": "Version:"
+   },
+   "editor_html_via_facebook": {
+      "description": "Put %20 between words that go together.",
+      "message": " (via Facebook)"
+   },
+   "editor_html_want_more": {
+      "description": "Put %20 between words that go together.",
+      "message": "Want to get more features from WiseStamp?"
+   },
+   "editor_html_wisestamp": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp"
+   },
+   "editor_html_wisestamp_dot_com": {
+      "description": "Put %20 between words that go together.",
+      "message": "wisestamp.com"
+   },
+   "editor_html_wisestamp_editor": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp Editor"
+   },
+   "editor_html_wizard": {
+      "description": "Put %20 between words that go together.",
+      "message": "Wizard"
+   },
+   "editor_html_you_can_sync": {
+      "description": "Put %20 between words that go together.",
+      "message": "You can now go to Settings => Sync to backup your settings."
+   },
+   "editor_html_your_email": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your Email:"
+   },
+   "editor_icon_in_use": {
+      "description": "Put %20 between words that go together.",
+      "message": "This icon is used in your signature(s). Are you sure you want to delete it?"
+   },
+   "editor_internal_error": {
+      "description": "Put %20 between words that go together.",
+      "message": "Internal error. Please try again later."
+   },
+   "editor_is_name_empty": {
+      "description": "Put %20 between words that go together.",
+      "message": "$H2NAME$ is empty!$H2END$Sorry, but we really need you to fill this one out!$BR$Thanks!$BR$",
+      "placeholders": {
+         "br": {
+            "content": "\u003Cbr/>\u003Cbr/>"
+         },
+         "h2end": {
+            "content": "\u003C/h2>\u003Cbr/>"
+         },
+         "h2name": {
+            "content": "\u003Ch2 style='margin-top: 6px; font-size: 125%;'>$1"
+         }
+      }
+   },
+   "editor_localstorage_confirm": {
+      "description": "Put %20 between words that go together.",
+      "message": "Are you sure you want to downgrade to localStorage?"
+   },
+   "editor_name": {
+      "description": "Put %20 between words that go together.",
+      "message": "Name:"
+   },
+   "editor_ok": {
+      "description": "Put %20 between words that go together.",
+      "message": "Ok"
+   },
+   "editor_or": {
+      "description": "Put %20 between words that go together.",
+      "message": "or"
+   },
+   "editor_param_is_empty": {
+      "description": "Put %20 between words that go together.",
+      "message": "$H2PARAM$ is empty!$H2END$Sorry, but we really need you to fill this one out!$BR$Thanks!$BR$",
+      "placeholders": {
+         "br": {
+            "content": "\u003Cbr/>\u003Cbr/>"
+         },
+         "h2end": {
+            "content": "\u003C/h2>\u003Cbr/>"
+         },
+         "h2param": {
+            "content": "\u003Ch2 style='margin-top: 6px; font-size: 125%;'>$1"
+         }
+      }
+   },
+   "editor_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Password:"
+   },
+   "editor_password_forgot": {
+      "description": "Put %20 between words that go together.",
+      "message": "$ASTART$forgot your password?$AEND$",
+      "placeholders": {
+         "aend": {
+            "content": "\u003C/a>"
+         },
+         "astart": {
+            "content": "\u003Ca id='forgot'>"
+         }
+      }
+   },
+   "editor_password_reset": {
+      "description": "Put %20 between words that go together.",
+      "message": "Password reset"
+   },
+   "editor_password_reset_email_message": {
+      "description": "Put %20 between words that go together.",
+      "message": "Enter your email and we will send you a new password.$BR$",
+      "placeholders": {
+         "br": {
+            "content": "\u003Cbr/>\u003Cbr/>"
+         }
+      }
+   },
+   "editor_password_reset_email_sent": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your new password was sent to your email.$BR$Check your inbox and use your new password to sign in.$BR$",
+      "placeholders": {
+         "br": {
+            "content": "\u003Cbr/>\u003Cbr/>"
+         }
+      }
+   },
+   "editor_return_to_editor": {
+      "description": "Put %20 between words that go together.",
+      "message": "Return to editor"
+   },
+   "editor_save": {
+      "description": "Put %20 between words that go together.",
+      "message": "Save"
+   },
+   "editor_saving": {
+      "description": "Put %20 between words that go together.",
+      "message": " Saving..."
+   },
+   "editor_screenshot_problem": {
+      "description": "Put %20 between words that go together.",
+      "message": "There was a problem uploading your signature screenshot"
+   },
+   "editor_share_approve": {
+      "description": "Put %20 between words that go together.",
+      "message": "I also approve sharing my signature on WiseStamp Galleries"
+   },
+   "editor_share_like_question": {
+      "description": "Put %20 between words that go together.",
+      "message": "Like your signature?"
+   },
+   "editor_sign_up_facebook": {
+      "description": "Put %20 between words that go together.",
+      "message": "Sign up with your Facebook account"
+   },
+   "editor_sign_up_manually": {
+      "description": "Put %20 between words that go together.",
+      "message": "Sign up manually"
+   },
+   "editor_signature_cannot_delete": {
+      "description": "Put %20 between words that go together.",
+      "message": "This is your last signature! You can't delete it, sorry."
+   },
+   "editor_signature_delete_default": {
+      "description": "Put %20 between words that go together.",
+      "message": "This signature is your default signature. Are you sure you want to delete it?"
+   },
+   "editor_signature_delete_question": {
+      "description": "Put %20 between words that go together.",
+      "message": "Are you sure you want to delete [$TITLE$] signature?",
+      "placeholders": {
+         "title": {
+            "content": "$1",
+            "example": "Pesonal"
+         }
+      }
+   },
+   "editor_signature_name": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature name: "
+   },
+   "editor_signature_name_enter_valid": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please enter a valid name!"
+   },
+   "editor_signature_name_unique": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please choose a unique title for the new signature!"
+   },
+   "editor_signature_will_appear": {
+      "description": "Put %20 between words that go together.",
+      "message": "Congratulations, your signature will now automatically appear in your emails."
+   },
+   "editor_submit_bug": {
+      "description": "Put %20 between words that go together.",
+      "message": "Thanks for submitting the bug! We'll do our best to fix it!"
+   },
+   "editor_twitter_text": {
+      "description": "Put %20 between words that go together.",
+      "message": "I%20just%20created%20an%20Email%20Signature%20that%20really%20%E2%9C%94STANDS%20OUT%20with%20%E2%98%9B%20http%3A%2F%2Fwww.wisestamp.com.%20Thanks%20%40wisestamp!"
+   },
+   "editor_user_sign_in": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp User Sign in"
+   },
+   "editor_user_sign_in_manually": {
+      "description": "Put %20 between words that go together.",
+      "message": "$H2START$Sign in manually$H2END$",
+      "placeholders": {
+         "h2end": {
+            "content": "\u003C/h2>"
+         },
+         "h2start": {
+            "content": "\u003Ch2>"
+         }
+      }
+   },
+   "editor_welcome": {
+      "description": "Put %20 between words that go together.",
+      "message": "Welcome "
+   },
+   "editor_welcome_title": {
+      "description": "Put %20 between words that go together.",
+      "message": "Welcome to WiseStamp"
+   },
+   "name": {
+      "message": "WiseStamp - Email Signatures for Gmail"
+   },
+   "settings_account_account_details": {
+      "description": "Put %20 between words that go together.",
+      "message": "Account Details"
+   },
+   "settings_account_email": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your Email:"
+   },
+   "settings_account_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Password:"
+   },
+   "settings_account_plan": {
+      "description": "Put %20 between words that go together.",
+      "message": "Plan:"
+   },
+   "settings_account_tab": {
+      "description": "Put %20 between words that go together.",
+      "message": "Account"
+   },
+   "settings_account_version": {
+      "description": "Put %20 between words that go together.",
+      "message": "Version:"
+   },
+   "settings_add": {
+      "description": "Put %20 between words that go together.",
+      "message": "Add"
+   },
+   "settings_button_close": {
+      "description": "Put %20 between words that go together.",
+      "message": "close"
+   },
+   "settings_button_open": {
+      "description": "Put %20 between words that go together.",
+      "message": "open"
+   },
+   "settings_cancel": {
+      "description": "Put %20 between words that go together.",
+      "message": "Cancel"
+   },
+   "settings_change_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Change Password"
+   },
+   "settings_close": {
+      "description": "Put %20 between words that go together.",
+      "message": "Close"
+   },
+   "settings_compose": {
+      "description": "Put %20 between words that go together.",
+      "message": "Compose"
+   },
+   "settings_compose_combo": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature for new emails you compose"
+   },
+   "settings_config": {
+      "description": "Put %20 between words that go together.",
+      "message": "Configuration"
+   },
+   "settings_config_edit": {
+      "description": "Put %20 between words that go together.",
+      "message": "Edit configuration"
+   },
+   "settings_config_load": {
+      "description": "Put %20 between words that go together.",
+      "message": "Load configuration"
+   },
+   "settings_config_uninstall_apps": {
+      "description": "Put %20 between words that go together.",
+      "message": "Uninstall apps"
+   },
+   "settings_confirm_new_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Confirm new password: "
+   },
+   "settings_correct_confirmation_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please enter a correct confirmation password."
+   },
+   "settings_custom": {
+      "description": "Put %20 between words that go together.",
+      "message": "Custom"
+   },
+   "settings_data": {
+      "description": "Put %20 between words that go together.",
+      "message": "Data"
+   },
+   "settings_default": {
+      "description": "Put %20 between words that go together.",
+      "message": "Default"
+   },
+   "settings_default_all_accounts": {
+      "description": "Put %20 between words that go together.",
+      "message": "Default for all accounts"
+   },
+   "settings_delete": {
+      "description": "Put %20 between words that go together.",
+      "message": "Delete"
+   },
+   "settings_devtools_open": {
+      "description": "Put %20 between words that go together.",
+      "message": "Open Developer tools"
+   },
+   "settings_duplicate_sigs": {
+      "description": "Put %20 between words that go together.",
+      "message": "The following signatures are duplicate:\u003Cbr/>"
+   },
+   "settings_edit": {
+      "description": "Put %20 between words that go together.",
+      "message": "Edit"
+   },
+   "settings_edit_email_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Email account: "
+   },
+   "settings_email_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Email account"
+   },
+   "settings_enter_new_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please enter your new password."
+   },
+   "settings_enter_old_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please enter your old password."
+   },
+   "settings_enter_valid_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please enter a valid account address!"
+   },
+   "settings_keep_everything": {
+      "description": "Put %20 between words that go together.",
+      "message": "Keep Everything"
+   },
+   "settings_load_failed": {
+      "description": "Put %20 between words that go together.",
+      "message": "Failed to load data."
+   },
+   "settings_new_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "New password: "
+   },
+   "settings_no_promo_share": {
+      "description": "Put %20 between words that go together.",
+      "message": "No promotional tag? You can still help spread the word...\u003Cbr/> Click to Tweet or Share on Facebook."
+   },
+   "settings_nothing_saved": {
+      "description": "Put %20 between words that go together.",
+      "message": "It seems that there was nothing saved yet!"
+   },
+   "settings_ok": {
+      "description": "Put %20 between words that go together.",
+      "message": "Ok"
+   },
+   "settings_old_password": {
+      "description": "Put %20 between words that go together.",
+      "message": "Old password: "
+   },
+   "settings_overwrite_settings_confirm": {
+      "description": "Put %20 between words that go together.",
+      "message": "This will overwrite the currently saved settings. Continue?\u003Cbr/>\u003Cbr/>"
+   },
+   "settings_password_changed": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your password was changed.\u003Cbr/>\u003Cbr/>"
+   },
+   "settings_promo_id": {
+      "description": "Put %20 between words that go together.",
+      "message": "Promo ID: "
+   },
+   "settings_pwd_changed": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your password was changed.$BR$",
+      "placeholders": {
+         "br": {
+            "content": "\u003Cbr/>\u003Cbr/>"
+         }
+      }
+   },
+   "settings_pwd_confirm": {
+      "description": "Put %20 between words that go together.",
+      "message": "Confirm new password: "
+   },
+   "settings_pwd_err_confirm": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your password and password confirmation fields did not match."
+   },
+   "settings_pwd_err_new": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please enter your new password."
+   },
+   "settings_pwd_err_old": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please enter your old password."
+   },
+   "settings_pwd_new": {
+      "description": "Put %20 between words that go together.",
+      "message": "New password: "
+   },
+   "settings_pwd_old": {
+      "description": "Put %20 between words that go together.",
+      "message": "Old password: "
+   },
+   "settings_replace": {
+      "description": "Put %20 between words that go together.",
+      "message": "Replace"
+   },
+   "settings_replace_or_keep": {
+      "description": "Put %20 between words that go together.",
+      "message": "Would you like to \u003Cb>Replace\u003C/b> your current signatures, or \u003Cb>Keep Everything\u003C/b>?"
+   },
+   "settings_reply": {
+      "description": "Put %20 between words that go together.",
+      "message": "Reply/Fwd"
+   },
+   "settings_reply_combo": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature for emails you reply or forward"
+   },
+   "settings_reset_confirm": {
+      "description": "Put %20 between words that go together.",
+      "message": "Are you sure you want to do this? You will lose all your settings!"
+   },
+   "settings_reset_restart": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your settings were reset. Please $BSTART$restart your browser$BEND$ to complete the process.",
+      "placeholders": {
+         "bend": {
+            "content": "\u003C/b>"
+         },
+         "bstart": {
+            "content": "\u003Cb>"
+         }
+      }
+   },
+   "settings_reset_settings_confirm": {
+      "description": "Put %20 between words that go together.",
+      "message": "Are you sure you want to do this? You will lose all your settings!"
+   },
+   "settings_restart_after_reset": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your settings were reset. Please \u003Cb>restart your browser\u003C/b> to complete the process."
+   },
+   "settings_save": {
+      "description": "Put %20 between words that go together.",
+      "message": "Save"
+   },
+   "settings_save_failed": {
+      "description": "Put %20 between words that go together.",
+      "message": "Failed to save data."
+   },
+   "settings_saved": {
+      "description": "Put %20 between words that go together.",
+      "message": "Settings saved."
+   },
+   "settings_settings_loaded": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your signatures and settings were loaded successfully.\u003Cbr/>\u003Cbr/>"
+   },
+   "settings_sig_emails_new": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature for new emails you compose"
+   },
+   "settings_sig_emails_reply": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature for emails you reply or forward"
+   },
+   "settings_sig_on_compose": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature on Compose: "
+   },
+   "settings_sig_on_reply": {
+      "description": "Put %20 between words that go together.",
+      "message": "Signature on Reply/Fwd: "
+   },
+   "settings_tester": {
+      "description": "Put %20 between words that go together.",
+      "message": "Tester"
+   },
+   "settings_title": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp settings"
+   },
+   "settings_too_many_sigs": {
+      "description": "Put %20 between words that go together.",
+      "message": "Please note that you have more signatures than your account allows. You can either delete some of the signatures, or \u003Ca class='underlined upgrade'>upgrade\u003C/a> to use all of them.\u003Cbr/>\u003Cbr/>"
+   },
+   "settings_uninstall_done": {
+      "description": "Put %20 between words that go together.",
+      "message": "Uninstalled apps. Please close and re-open the editor to see the changes"
+   },
+   "settings_value": {
+      "description": "Put %20 between words that go together.",
+      "message": "Value:"
+   },
+   "wizard_": {
+      "description": "Put %20 between words that go together.",
+      "message": "Click \"Prev\" to change the template or - \"Use this template\".$BR$After clicking \"Use template\" you will have the option to edit your signature and add Social profiles and Email Apps.",
+      "placeholders": {
+         "br": {
+            "content": "\u003Cbr/>\u003Cbr/>"
+         }
+      }
+   },
+   "wizard_add": {
+      "description": "Put %20 between words that go together.",
+      "message": "Add"
+   },
+   "wizard_add_social_services": {
+      "description": "Put %20 between words that go together.",
+      "message": "Add links to your social services profiles."
+   },
+   "wizard_address": {
+      "description": "Put %20 between words that go together.",
+      "message": "Address"
+   },
+   "wizard_choose_photo": {
+      "description": "Put %20 between words that go together.",
+      "message": "Choose your photo"
+   },
+   "wizard_company": {
+      "description": "Put %20 between words that go together.",
+      "message": "Company"
+   },
+   "wizard_design_in_60": {
+      "description": "Put %20 between words that go together.",
+      "message": "Design your signature in 60 seconds"
+   },
+   "wizard_email": {
+      "description": "Put %20 between words that go together.",
+      "message": "Email"
+   },
+   "wizard_format": {
+      "description": "Put %20 between words that go together.",
+      "message": "Format"
+   },
+   "wizard_get_more": {
+      "description": "Put %20 between words that go together.",
+      "message": "Get more with WiseStamp premium"
+   },
+   "wizard_mobile": {
+      "description": "Put %20 between words that go together.",
+      "message": "Mobile"
+   },
+   "wizard_my_icons": {
+      "description": "Put %20 between words that go together.",
+      "message": "My Icons"
+   },
+   "wizard_new_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Create a new account"
+   },
+   "wizard_next": {
+      "description": "Put %20 between words that go together.",
+      "message": "Next"
+   },
+   "wizard_no_thanks_link": {
+      "description": "Put %20 between words that go together.",
+      "message": "$ASTART$No thanks$AEND$, I will design my signature without a template",
+      "placeholders": {
+         "aend": {
+            "content": "\u003C/a>"
+         },
+         "astart": {
+            "content": "\u003Ca href='javascript:void(0)'>"
+         }
+      }
+   },
+   "wizard_or": {
+      "description": "Put %20 between words that go together.",
+      "message": "OR"
+   },
+   "wizard_paste": {
+      "description": "Put %20 between words that go together.",
+      "message": "* You can use Ctrl-V to paste the link"
+   },
+   "wizard_phone": {
+      "description": "Put %20 between words that go together.",
+      "message": "Phone"
+   },
+   "wizard_premium_templates": {
+      "description": "Put %20 between words that go together.",
+      "message": "Premium Templates"
+   },
+   "wizard_prev": {
+      "description": "Put %20 between words that go together.",
+      "message": "Prev"
+   },
+   "wizard_sig_with_facebook": {
+      "description": "Put %20 between words that go together.",
+      "message": "Quickly create a signature with your Facebook"
+   },
+   "wizard_skip": {
+      "description": "Put %20 between words that go together.",
+      "message": "Skip the Wizard"
+   },
+   "wizard_step_1_add_details": {
+      "description": "Put %20 between words that go together.",
+      "message": "Step 1: Add your details"
+   },
+   "wizard_step_1_add_social": {
+      "description": "Put %20 between words that go together.",
+      "message": "Step 1: Add your social icons"
+   },
+   "wizard_step_2": {
+      "description": "Put %20 between words that go together.",
+      "message": "Step 2: Choose a template"
+   },
+   "wizard_step_3": {
+      "description": "Put %20 between words that go together.",
+      "message": "Step 3: Preview and add your template"
+   },
+   "wizard_this_sigs_look": {
+      "description": "Put %20 between words that go together.",
+      "message": "This is what your signature will look like."
+   },
+   "wizard_title": {
+      "description": "Put %20 between words that go together.",
+      "message": "Title"
+   },
+   "wizard_upgrade_now": {
+      "description": "Put %20 between words that go together.",
+      "message": "Upgrade now"
+   },
+   "wizard_upgrade_to_enjoy": {
+      "description": "Put %20 between words that go together.",
+      "message": "Upgrade now to enjoy more templates and more features! Find the best plan for you and enjoy the benefits."
+   },
+   "wizard_upload_image": {
+      "description": "Put %20 between words that go together.",
+      "message": "Upload Image "
+   },
+   "wizard_use_existing_account": {
+      "description": "Put %20 between words that go together.",
+      "message": "Use existing account"
+   },
+   "wizard_use_template": {
+      "description": "Put %20 between words that go together.",
+      "message": "Use this template"
+   },
+   "wizard_using_facebook": {
+      "description": "Put %20 between words that go together.",
+      "message": "Using Facebook?"
+   },
+   "wizard_website": {
+      "description": "Put %20 between words that go together.",
+      "message": "Website"
+   },
+   "wizard_welcome_to_ws": {
+      "description": "Put %20 between words that go together.",
+      "message": "Welcome to WiseStamp"
+   },
+   "wizard_wisestamp": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp"
+   },
+   "wizard_ws_sig_creation": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp signature creation"
+   },
+   "wizard_ws_sig_creation_1": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp signature creation - Step 1"
+   },
+   "wizard_ws_sig_creation_2": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp signature creation - Step 2"
+   },
+   "wizard_ws_sig_creation_3": {
+      "description": "Put %20 between words that go together.",
+      "message": "WiseStamp signature creation - Step 3"
+   },
+   "wizard_your_name": {
+      "description": "Put %20 between words that go together.",
+      "message": "Your name"
+   }
+}

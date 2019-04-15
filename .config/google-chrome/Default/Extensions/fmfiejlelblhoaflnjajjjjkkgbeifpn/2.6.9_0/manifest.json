@@ -1,0 +1,22 @@
+{
+   "background": {
+      "scripts": [ "js/utils.js", "js/mono.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "manager.html",
+      "default_title": "uTorrent easy client"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "images/icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGNe6ofkD8/5TDvR0H5TY/DMt/e/z+WebNbgEz5L51dHJh9VYk2Jny4kEbgmZ28sK2PIRvbcMgQMJMkPomUV5UMq/NWEejTPRJOycfBK2+TNCcwwrt/hVWFI/QKfn714DTnwouwLzeP/8Dzvwm3quDI4+/uZ5zO0Dptub/wb/h8QIDAQAB",
+   "manifest_version": 2,
+   "name": "uTorrent easy client",
+   "options_page": "options.html",
+   "permissions": [ "http://*/*", "https://*/*", "storage", "notifications", "tabs", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.6.9"
+}

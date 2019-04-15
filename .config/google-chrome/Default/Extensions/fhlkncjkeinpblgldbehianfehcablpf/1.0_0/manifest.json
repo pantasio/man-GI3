@@ -1,0 +1,17 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "description": "XDM integration module for Chrome",
+   "icons": {
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkrwN36ibFS9lXobzbD0DIH9A0afNdjhs7WQ3ilO/PPkQDrJPlzOdIEc2FgsvHEvCEyR7uGnxW7RsfaN4CeYxQIpBJKGBG/WniXPNOuYo5TR50DPAFzKtQ4zrSqWhK/UgK7jHexkF+DsHF/fYjHrdGp4bPp7zY+2K+4cy7kdw0PDeLop/jcEHQdKNlB2dwy2ZLktiZb4F3iA0YN3Y3IZH6kxkJQhGK8FFlNjGiwVEBmBM+zaRWqozhc8vXeZ70s4FyofLko2di1w0CzM9l+NRQTC6GyJAZ34nrIptoMg+Z+Rv5WccuJr0VUzuARy795WYS2kFa44rP1EzguXUPaTUEQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18.0",
+   "name": "XDM Helper",
+   "offline_enabled": true,
+   "permissions": [ "tabs", "contextMenus", "background", "webRequest", "webRequestBlocking", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

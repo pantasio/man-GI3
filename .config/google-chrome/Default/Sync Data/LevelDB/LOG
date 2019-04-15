@@ -1,0 +1,21 @@
+2019/04/15-14:31:02.967 600 Reusing MANIFEST /home/pantasio/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/04/15-14:31:02.967 600 Recovering log #43
+2019/04/15-14:31:02.974 600 Reusing old log /home/pantasio/.config/google-chrome/Default/Sync Data/LevelDB/000043.log 
+2019/04/15-15:48:11.247 9f4 Level-0 table #47: started
+2019/04/15-15:48:11.252 9f4 Level-0 table #47: 104940 bytes OK
+2019/04/15-15:48:11.255 9f4 Delete type=0 #43
+2019/04/15-16:17:46.527 9f4 Level-0 table #49: started
+2019/04/15-16:17:46.534 9f4 Level-0 table #49: 96986 bytes OK
+2019/04/15-16:17:46.537 9f4 Delete type=0 #46
+2019/04/15-16:59:54.904 9f4 Level-0 table #51: started
+2019/04/15-16:59:54.910 9f4 Level-0 table #51: 96779 bytes OK
+2019/04/15-16:59:54.913 9f4 Delete type=0 #48
+2019/04/15-16:59:54.913 9f4 Compacting 4@0 + 1@1 files
+2019/04/15-16:59:54.928 9f4 Generated table #52@0: 1006 keys, 175452 bytes
+2019/04/15-16:59:54.928 9f4 Compacted 4@0 + 1@1 files => 175452 bytes
+2019/04/15-16:59:54.930 9f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/04/15-16:59:54.930 9f4 Delete type=2 #51
+2019/04/15-16:59:54.930 9f4 Delete type=2 #44
+2019/04/15-16:59:54.930 9f4 Delete type=2 #42
+2019/04/15-16:59:54.930 9f4 Delete type=2 #47
+2019/04/15-16:59:54.930 9f4 Delete type=2 #49

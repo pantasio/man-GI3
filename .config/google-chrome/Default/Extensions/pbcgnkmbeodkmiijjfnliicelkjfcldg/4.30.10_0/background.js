@@ -1,0 +1,2 @@
+chrome.extension.onMessage.addListener(wisestamp_message_handler.handle);
+chrome.runtime.onMessageExternal.addListener(wisestamp_message_handler.handle);
