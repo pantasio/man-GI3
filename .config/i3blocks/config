@@ -1,49 +1,55 @@
 command=~/.scripts/statusbar/$BLOCK_NAME
-separator_block_width=15
+separator_block_width=20
 #markup=pango
-markup=pango:System San Francisco Display 12
+markup=pango:System San Francisco Display 10
 
 [record]
+label=record📬
 command=cat /tmp/recordingicon
 interval=once
 signal=9
 
 [music]
-label=
+label=music 
 interval=once
 signal=11
 
 [news]
-label=📰
+label= news📬
 interval=once
 signal=6
 
 [pacpackages]
-label=📦
+label=pacpack..📦
 interval=once
 signal=8
 
 [torrent]
+label=torrent📬
 interval=20
 signal=7
 
-[weather]
-interval=18000
-signal=5
+#[weather]
+#label=📬
+#interval=18000
+#signal=5
 
 [mailbox]
-#label=📬
-label=
+label=📬
+#label=
 interval=180
 signal=12
 
-#[memory]
-#interval=30
-#label=🧠
+[memory]
+interval=30
+label=Mem
 
-#[cpu]
-#interval=15
-#label=💻
+[cpu]
+[cpu_usage]
+command=~/.scripts/statusbar/cpu_usage
+interval=15
+min_width=CPU 100.00%
+label=cpu 💻
 
 [volume]
 interval=once
@@ -57,16 +63,23 @@ signal=10
 #interval=60
 #command=disk /home 🏠
 
-[battery]
-command=battery BAT0
-interval=5
 
 [clock]
-label=📅
+label=
 interval=30
 
 [internet]
+label=
 interval=10
 
 [help]
 interval=once
+
+[temperature]
+command=~/.scripts/statusbar/temperature
+label=TEMP
+interval=1
+#T_WARN=70
+#T_CRIT=90
+#SENSOR_CHIP=""
+
