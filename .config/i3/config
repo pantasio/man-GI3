@@ -209,7 +209,7 @@ bar {
 #bindsym $mod+p exec "xrandr --output VGA-0 --off --output DVI-I-1 --off --output DVI-I-0 --primary --mode 1920x1080 --pos 0x750 --rotate normal --output HDMI-0 --mode 1920x1080 --pos 1920x0 --rotate right"
 
 # $Set multi desktop position: DVI normal HDMI rotate right
-exec --no-startup-id "xrandr --output VGA-0 --off --output DVI-I-1 --off --output DVI-I-0 --primary --mode 1920x1080 --pos 0x750 --rotate normal --output HDMI-0 --mode 1920x1080 --pos 1920x0 --rotate right"
+#exec --no-startup-id "xrandr --output VGA-0 --off --output DVI-I-1 --off --output DVI-I-0 --primary --mode 1920x1080 --pos 0x750 --rotate normal --output HDMI-0 --mode 1920x1080 --pos 1920x0 --rotate right"
 
 # set multi desktop position.  side by side 
 exec --no-startup-id "xrandr --output VGA-0 --off --output DVI-I-1 --off --output DVI-I-0 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output HDMI-0 --mode 1920x1080 --pos 1920x0 --rotate normal"

@@ -10,3 +10,5 @@ zstyle :compinstall filename '/home/pantasio/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+
+source "$HOME/.slimzsh/slim.zsh"
