@@ -13,3 +13,6 @@ Plug 'tpope/vim-surround'
 Plug 'w0rp/ale'
 
 call plug#end()
+
+syntax on 
+colorscheme goodwolf
