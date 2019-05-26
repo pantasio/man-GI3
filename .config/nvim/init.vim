@@ -1,3 +1,4 @@
+"change <Leader> 
 let mapleader =","
 
 " some basic:
@@ -44,8 +45,13 @@ colorscheme goodwolf
 vnoremap <C-c> "+y
 map <C-p> "+p
 
-
-
+""""""
+" Edit and reload nvim
+"
+" Edit vimr configuration file
+nnoremap <Leader>ve :e $MYVIMRC<CR>
+" " Reload vimr configuration file
+nnoremap <Leader>vr :source $MYVIMRC<CR>
 
 
 
