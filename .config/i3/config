@@ -32,14 +32,19 @@ floating_modifier $mod
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal
-#bindsym $mod+Return exec gnome-terminal
-bindsym $mod+Return exec st -e zsh
+bindsym $mod+Return exec gnome-terminal
+# cant use ctrl+shift+v to paste in st
+#bindsym $mod+Return exec st -e zsh
 
 # kill focused window
 bindsym $mod+Shift+q kill
 
 #################################
+#
 # start dmenu (a program launcher)
+# use rofi 
+#
+
 #bindsym $mod+d exec --no-startup-id dmenu_run -nb black -nf white -sb white -sf black -fn RobotoMono:size=10d
 #bindsym $mod+d exec --no-startup-id dmenu_run
 
@@ -52,15 +57,20 @@ bindsym $mod+d exec rofi -show run -hide-scrollbar -lines 3 -eh 1 -width 40 -loc
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
 #################################
-### Start Application 
+#
+# Start Application 
+#
+#
 bindsym $mod+F2 exec google-chrome-stable
 bindsym $mod+F3 exec nautilus
-bindsym $mod+Shift+F3 exec sudo nautilus
+bindsym $mod+Shift+F3 exec sudo nautilus  #didnot work
+bindsym $mod+0 exec --no-startup-id betterlockscreen -l dim
 
-bindsym $mod+9 exec --no-startup-id betterlockscreen -l dim
-
-
+##
+#
 # change focus
+#
+#
 bindsym $mod+j focus left
 bindsym $mod+k focus down
 bindsym $mod+l focus up
@@ -217,5 +227,23 @@ exec --no-startup-id "xrandr --output VGA-0 --off --output DVI-I-1 --off --outpu
 
 #####################################
 
+###
+#
+# Autostart Programs
+#
+###
 
+#Randome wallpaper
+exec --no-startup-id feh --bg-scale --no-xinerama --randomize ~/.config/wallpaper/* 
 
+#Run ibus use <super><ctrl>+space to change language
+exec --no-startup-id ibus-daemon --xim -d -r
+
+###
+#
+# hide i3-bar
+#
+#
+exec --no-startup-id i3-msg bar mode invisible
+bindsym $mod+i exec i3-msg bar mode invisible
+bindsym $mod+Shift+i exec i3-msg bar mode dock

@@ -1,4 +1,23 @@
-call plug#begin('~/.vim/plugged')
+let mapleader =","
+
+" some basic:
+filetype plugin indent on
+syntax enable
+set nocompatible
+set backspace=indent,eol,start
+set ruler
+set showcmd
+set incsearch
+set hlsearch
+set number relativenumber
+
+if ! filereadable(expand('~/.config/nvim/autoload/plug.vim'))
+	echo "Downloading junegunn/vim-plug to manage plugins..."
+	silent !mkdir -p ~/.config/nvim/autoload/
+	silent !curl "https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim" > ~/.config/nvim/autoload/plug.vim
+endif
+
+call plug#begin('~/.config/nvim/plugged')
 
 Plug 'airblade/vim-gitgutter'
 Plug 'editorconfig/editorconfig-vim'
@@ -16,3 +35,25 @@ call plug#end()
 
 syntax on 
 colorscheme goodwolf
+
+
+"" Making it even better
+
+
+
+vnoremap <C-c> "+y
+map <C-p> "+p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
