@@ -54,7 +54,7 @@ nnoremap <Leader>ve :e $MYVIMRC<CR>
 nnoremap <Leader>vr :source $MYVIMRC<CR>
 
 
-
+nmap <F6> :NERDTreeToggle<CR>
 
 
 

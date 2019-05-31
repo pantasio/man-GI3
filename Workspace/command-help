@@ -1,0 +1,149 @@
+#######################
+## command line help
+
+${(q-)PWD}				# cd ${(q-)PWD}/ 
+
+${ZDOTDIR:-$HOME}		# zsh dir
+
+
+## Manage dotfile in my PC
+#
+dotfile
+
+## See PC source
+#
+glances
+
+## Manage network
+#
+nmtui
+
+## Manage audio output
+#
+pulsemixer
+
+## Play music in console
+#
+# MOCP key control 
+#
+vim mocp-help
+
+#######################
+##       FISH        ##
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######################
+
+#######################
+##       TMUX        ##
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######################
+
+#######################
+##       NVIM        ##
+#
+
+
+
+
+
+
+
+
+
+#######################
+
+#######################
+##       ZSH         ##
+#Option
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
