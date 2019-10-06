@@ -1,17 +1,30 @@
 #
 CTrl-a is bind-key
+bind-key r reload lai config file
 
 bind-key b chia ngang
 bind-key v chia doc
 
-bind-key r reload lai config file
+# Windows
+bind-key c create panel
+bind-key , rename panel
 
 bind-key num-8 chon panel-8
+bind-key & close current windows
+bind-key <Ctrl s> setw synchronize-panes nhap lieu tat ca cac windows
+
+
+# Session
 
 ```
-tmux new -s <name>
-
+tmux new -s <session-name>
+tmux kill-session -t <session-name>
 tmux ls
 
 tmux attach -t <session-name>
 ```
+bind-key d Dettach from session
+bind-key $ rename session
+bind-key s Show all session
+
+
