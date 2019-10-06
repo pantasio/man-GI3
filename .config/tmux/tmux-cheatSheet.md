@@ -27,4 +27,10 @@ bind-key d Dettach from session
 bind-key $ rename session
 bind-key s Show all session
 
+#Copy-mode-vi  
+bind-key Escape       # go into copy mode  = visual mode in vim
+bind-key v            # begin-select
+bind-key y            # copy to buffer
+bind-key p            # choose-buffer
+bind-key C-c          #exit copy-mode
 
