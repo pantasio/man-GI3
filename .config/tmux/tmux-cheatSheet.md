@@ -1,9 +1,9 @@
 #
-CTrl-a is bind-key
-bind-key r reload lai config file
+CTrl-a is bind-key  
+bind-key r reload lai config file         
 
-bind-key b chia ngang
-bind-key v chia doc
+bind-key b chia ngang     
+bind-key v chia doc         
 
 # Windows
 bind-key c create panel
